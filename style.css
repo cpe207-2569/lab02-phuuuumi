@@ -1,16 +1,6 @@
 body {
     font-family: "Prompt", sans-serif;
     background-color: #FAF9F6;
-}
-
-.text1 {
-    align-self: center;
-    color: #4A433E;
-    text-align: center;
-
-}
-
-.text2 {
     color: #4A433E;
     text-align: center;
 }
@@ -25,7 +15,15 @@ a:hover {
 }
 
 .contact {
-    padding: 20;
+    border: 2px solid #4A433E;
+    max-width: 680px;
+    max-width: 680px;
+    margin: auto;
+    padding-left: 30px;
+}
+
+.skill {
+    text-align: left;
     border: 2px solid #4A433E;
     max-width: 680px;
     max-width: 680px;
