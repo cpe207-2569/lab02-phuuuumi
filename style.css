@@ -15,18 +15,18 @@ a:hover {
 }
 
 .contact {
+    max-width: 680px;
     border: 2px solid #4A433E;
-    max-width: 680px;
-    max-width: 680px;
     margin: auto;
     padding-left: 30px;
+    padding-right: 30px;
 }
 
-.skill {
+.box {
+    max-width: 680px;
     text-align: left;
     border: 2px solid #4A433E;
-    max-width: 680px;
-    max-width: 680px;
     margin: auto;
     padding-left: 30px;
+    padding-right: 30px;
 }
